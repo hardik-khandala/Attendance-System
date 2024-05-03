@@ -1,9 +1,5 @@
 
 ```
-cd .\Attendance_System
-```
-
-```
 pip install -r requirements.txt
 ```
 
